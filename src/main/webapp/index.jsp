@@ -4,6 +4,6 @@
   <title>Some relevant ti</title>
 </head>
 <body>
-<h2>Hello World! My First Tomcat Deployment</h2>
+<h2>Hello World! My First Tomcat Deploym</h2>
 </body>
 </html>
